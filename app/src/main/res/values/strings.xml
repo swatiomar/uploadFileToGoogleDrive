@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UploadFileToCloud</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="sign_in">Dropbox SignIn</string>
+    <string name="APP_KEY">0r93svyddcjwnaf</string>
+</resources>
